@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-03T11:53:05 CDT" name="Suite" finished-at="2021-05-03T11:53:44 CDT" duration-ms="39098">
+    <groups>
+    </groups>
+    <test started-at="2021-05-03T11:53:05 CDT" name="Validating Elements" finished-at="2021-05-03T11:53:44 CDT" duration-ms="39098">
+      <class name="SeleniumPracticeProject.QAClick.ValidateFrameandConnectionsTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateFrameandConnectionsTest@1e11bc55]" started-at="2021-05-03T11:53:07 CDT" name="launch" finished-at="2021-05-03T11:53:08 CDT" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validation()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateFrameandConnectionsTest@1e11bc55]" started-at="2021-05-03T11:53:09 CDT" name="validation" finished-at="2021-05-03T11:53:24 CDT" duration-ms="14504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateFrameandConnectionsTest@1e11bc55]" started-at="2021-05-03T11:53:43 CDT" name="tearDown" finished-at="2021-05-03T11:53:44 CDT" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumPracticeProject.QAClick.ValidateFrameandConnectionsTest -->
+      <class name="SeleniumPracticeProject.QAClick.ValidateOtherElementsTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateOtherElementsTest@345e5a17]" started-at="2021-05-03T11:53:08 CDT" name="launch" finished-at="2021-05-03T11:53:09 CDT" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateMoreElements()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateOtherElementsTest@345e5a17]" started-at="2021-05-03T11:53:31 CDT" name="validateMoreElements" finished-at="2021-05-03T11:53:42 CDT" duration-ms="11199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMoreElements -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateOtherElementsTest@345e5a17]" started-at="2021-05-03T11:53:44 CDT" name="tearDown" finished-at="2021-05-03T11:53:44 CDT" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumPracticeProject.QAClick.ValidateOtherElementsTest -->
+      <class name="SeleniumPracticeProject.QAClick.ValidateElementsTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateElementsTest@600b0b7]" started-at="2021-05-03T11:53:05 CDT" name="launch" finished-at="2021-05-03T11:53:07 CDT" duration-ms="1687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateElements()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateElementsTest@600b0b7]" started-at="2021-05-03T11:53:24 CDT" name="validateElements" finished-at="2021-05-03T11:53:31 CDT" duration-ms="6602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateElements -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumPracticeProject.QAClick.ValidateElementsTest@600b0b7]" started-at="2021-05-03T11:53:42 CDT" name="tearDown" finished-at="2021-05-03T11:53:43 CDT" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumPracticeProject.QAClick.ValidateElementsTest -->
+    </test> <!-- Validating Elements -->
+  </suite> <!-- Suite -->
+</testng-results>

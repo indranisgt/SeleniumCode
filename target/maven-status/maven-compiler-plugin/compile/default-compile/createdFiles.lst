@@ -1,0 +1,5 @@
+Resources\Base.class
+PageObject\OtherExamplesHP.class
+PageObject\HomePage.class
+PageObject\iFrameandOthers.class
+SeleniumPracticeProject\QAClick\App.class
